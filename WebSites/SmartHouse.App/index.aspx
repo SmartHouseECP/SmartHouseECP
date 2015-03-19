@@ -7,11 +7,12 @@
 
     <form id="form1" runat="server">
 
-    <%=coisa.DataInclusao %>
+    teste
     </form>
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder3" runat="Server">
     <script type="text/javascript">
+
            
     </script>
 </asp:Content>
