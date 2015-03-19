@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHouse.Lib", "SmartHouse.Lib\SmartHouse.Lib.csproj", "{9ADC4FF0-BBE2-4DC1-97E6-70C034BD78EE}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SmartHouse.App", "..\..\WebSites\SmartHouse.App\", "{A3E10AD5-18E8-44A1-A186-174022831A08}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{9adc4ff0-bbe2-4dc1-97e6-70c034bd78ee}|SmartHouse.Lib.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49999"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\SmartHouse.App\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49999\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49999"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\SmartHouse.App\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49999\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49250"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADC4FF0-BBE2-4DC1-97E6-70C034BD78EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADC4FF0-BBE2-4DC1-97E6-70C034BD78EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADC4FF0-BBE2-4DC1-97E6-70C034BD78EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADC4FF0-BBE2-4DC1-97E6-70C034BD78EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E10AD5-18E8-44A1-A186-174022831A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E10AD5-18E8-44A1-A186-174022831A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E10AD5-18E8-44A1-A186-174022831A08}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E10AD5-18E8-44A1-A186-174022831A08}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

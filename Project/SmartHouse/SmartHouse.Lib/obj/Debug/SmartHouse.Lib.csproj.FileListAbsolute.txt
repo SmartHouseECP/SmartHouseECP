@@ -1,0 +1,9 @@
+c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\bin\Debug\SmartHouse.Lib.dll.config
+c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\bin\Debug\SmartHouse.Lib.dll
+c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\bin\Debug\SmartHouse.Lib.pdb
+c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.dll
+c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.xml
+c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.dll
+c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.pdb
