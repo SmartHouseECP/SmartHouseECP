@@ -14,6 +14,5 @@ C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin
 C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.xml
 C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.csprojResolveAssemblyReference.cache
 C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.dll
 C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.pdb

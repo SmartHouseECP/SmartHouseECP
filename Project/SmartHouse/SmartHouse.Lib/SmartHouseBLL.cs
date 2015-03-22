@@ -1,8 +1,12 @@
-﻿using System.Data.Entity;
+﻿using System.Threading.Tasks;
+using System.Data.Sql;
+using System.Data.Entity;
+using System.Data.Entity.Infrastructure;
+using System.Data.SqlClient;
+using System.Transactions;
 
 namespace SmartHouse
 {
-
     public class SmartHouseBLL
     {
         string SQLConnection = @"Data Source=smarthouse.ctxqmmzfu2jc.us-west-2.rds.amazonaws.com,1433;

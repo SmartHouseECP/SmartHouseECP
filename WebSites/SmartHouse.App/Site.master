@@ -57,7 +57,10 @@
                             <i class="fa fa-pencil text-green"></i><span>Testes</span>
                         </a>
                         <ul class="treeview-menu">
-                            <li><a href="Testes/conexao.aspx"><i class="fa fa-circle-o"></i>Conexão</a></li>
+                            <li><a href="../Testes/conexao.aspx"><i class="fa fa-circle-o"></i>Conexão</a></li>
+                        </ul>
+                        <ul class="treeview-menu">
+                            <li><a href="../Testes/webService.aspx"><i class="fa fa-circle-o"></i>WebService</a></li>
                         </ul>
                     </li>
                     <li>

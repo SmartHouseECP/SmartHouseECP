@@ -47,9 +47,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Conexao.cs" />
+    <Compile Include="Teste\TesteBLL.cs" />
+    <Compile Include="Teste\TesteVO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SmartHouse.cs" />
+    <Compile Include="SmartHouseVO.cs" />
     <Compile Include="SmartHouseBLL.cs" />
   </ItemGroup>
   <ItemGroup>

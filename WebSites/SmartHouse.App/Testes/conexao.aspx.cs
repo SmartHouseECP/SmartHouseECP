@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 public partial class conexao : System.Web.UI.Page
 {
-    protected List<SmartHouse.ConexaoVO> lista;
-    protected SmartHouse.ConexaoBLL ctxConexao;
+    protected List<Teste.TesteVO> lista;
+    protected Teste.TesteBLL ctxConexao;
     protected void Page_Load(object sender, EventArgs e)
     {
-        ctxConexao = new SmartHouse.ConexaoBLL();
+        ctxConexao = new Teste.TesteBLL();
 
         if (Request["gravar"] == "S")
         {

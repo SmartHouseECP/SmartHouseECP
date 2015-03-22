@@ -7,7 +7,7 @@ public partial class webService : System.Web.UI.Page
         
         if (Request["gravar"] == "S")
         {
-            new SmartHouse.ConexaoBLL().Inserir(Request["f_nome"]);
+            new Teste.TesteBLL().Inserir(Request["f_nome"]);
         }
     }
 }

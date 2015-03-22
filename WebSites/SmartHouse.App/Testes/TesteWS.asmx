@@ -1,8 +1,6 @@
 ﻿<%@ WebService Language="C#" Class="TesteWS" %>
-
 using System;
 using System.Collections.Generic;
-using SmartHouse;
 using System.Web;
 using System.Web.Services;
 using System.Web.Services.Protocols;
@@ -14,8 +12,8 @@ using System.Web.Services.Protocols;
 // [System.Web.Script.Services.ScriptService]
 public class TesteWS  : System.Web.Services.WebService {
     [WebMethod]
-    public List<ConexaoVO> Selecionar() {
-        return new ConexaoBLL().Conectar();
+    public List<Teste.TesteVO> Selecionar() {
+        return new Teste.TesteBLL().Selecionar();
     }
     
 }

@@ -22,7 +22,7 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <% lista = ctxConexao.Conectar();
+                                <% lista = ctxConexao.Selecionar();
                                    foreach (var item in lista)
                                    { %>
                                 <tr>
