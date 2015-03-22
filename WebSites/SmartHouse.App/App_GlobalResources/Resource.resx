@@ -117,22 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="gastoAguaMes" xml:space="preserve">
-    <value>Gasto de Água Total do Mês</value>
-  </data>
-  <data name="gastoEnergiaMes" xml:space="preserve">
-    <value>Gasto de Energia Total do Mês</value>
-  </data>
-  <data name="gastoMedioHora" xml:space="preserve">
-    <value>Gasto Médio por Hora</value>
-  </data>
-  <data name="gastoTotalMensal" xml:space="preserve">
-    <value>Gasto Total Mensal</value>
-  </data>
-  <data name="valorkW" xml:space="preserve">
-    <value>Valor do kW</value>
-  </data>
-  <data name="valorLitro" xml:space="preserve">
-    <value>Valor do Litro</value>
+  <data name="Novo" xml:space="preserve">
+    <value>Novo</value>
   </data>
 </root>

@@ -9,11 +9,11 @@
             <form id="form1" runat="server">
                 <div class="row">
                     <div class="col-lg-4 form-group">
-                        <label><%= Resources.Resource.gastoEnergiaMes %></label>
+                        <label><%//= Resources.Resource.gastoEnergiaMes %></label>
                         <input id="gastoMes" type="text" class="form-control" disabled="disabled" value="800kW" />
                     </div>
                     <div class="col-lg-4 form-group">
-                        <label><%= Resources.Resource.gastoMedioHora %></label>
+                        <label><%//= Resources.Resource.gastoMedioHora %></label>
                         <input id="gastoHora" type="text" class="form-control" disabled="disabled" value="50kW/h" />
                     </div>
                     <div class="col-lg-4 form-group">
@@ -23,11 +23,11 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 form-group">
-                        <label><%= Resources.Resource.valorkW %></label>
+                        <label><%//= Resources.Resource.valorkW %></label>
                         <input id="11" type="text" class="form-control" disabled="disabled" value="0,22 R$/kW" />
                     </div>
                     <div class="col-lg-4 form-group">
-                        <label><%= Resources.Resource.gastoTotalMensal %></label>
+                        <label><%//= Resources.Resource.gastoTotalMensal %></label>
                         <input id="22" type="text" class="form-control" disabled="disabled" value="R$176,00" />
                     </div>
                     <div class="col-lg-4 form-group">
