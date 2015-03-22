@@ -7,3 +7,13 @@ c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\
 c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.dll
 c:\users\thaian\documents\visual studio 2012\Projects\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.pdb
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\SmartHouse.Lib.dll.config
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\SmartHouse.Lib.dll
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\SmartHouse.Lib.pdb
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.dll
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.xml
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.csprojResolveAssemblyReference.cache
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.dll
+C:\Users\Thaian\Source\Repos\SmartHouseECP\Project\SmartHouse\SmartHouse.Lib\obj\Debug\SmartHouse.Lib.pdb
